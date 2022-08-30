@@ -1,0 +1,2 @@
+# SeguriBot
+Bot seguridad
